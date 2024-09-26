@@ -23,8 +23,8 @@ keywords:
   - Other
 kubeVersion: '>=1.24.0-0'
 maintainers:
-  - name: Taylortba	
-    email: Admin@taylortba.com
+  - name: taylortba
+    email: admin@taylortba.com
     url: https://truecharts.org
 name: crafty-4
 sources:
